@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Spaghetti Carbonara</h1>
+    <img src="https://www.allrecipes.com/thmb/6UaBC03j_WXNoBfyOgW2hDMec2g=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/245775-spaghetti-alla-carbonara-the-traditional-italian-recipe-DDMFS-4x3-879c32ee3cfb463582e3e6230e311029.jpg" alt="Spaghetti carbonara">
+    <h2> How to make it in less than 20 min!</h2>
+    
+    <p>This is an best meal I could to make in my teenage years</p>
+    <p> Easy to make and good to eat !</p>
+
+
+    <h3> Spaghetti alla Carbonara Ingredients</h3>
+
+    <p> Here are all the simple ingredients youll need to make homemade pasta
+        as if you were an italian </p>
+    <ul>
+        <li> <strong>Oil:</strong> </li>
+        <li> <strong> guanciale </strong> </li>
+        <li> <strong> spaghetti</strong> </li> 
+        <li> <strong> eggs</strong> </li>
+        <li><strong> Cheese</strong>  </li>
+        <li> <strong> Extra Seasoning</strong> </li>
+    </ul>
+
+<h3> <Strong> <em> Steps</em></Strong></h3>
+
+    <ol>
+        <li> <strong>1.</strong>Cook the halal meat in olive oil until browned and crispy, then drain on paper towels.</li>
+        <li> <strong>2.</strong> Boil the spaghetti in salted water. Drain and return to the pot. Let cool.</li>
+        <li> <strong>3.</strong> Whisk the eggs, 1/2 of the cheese, and some pepper in a bowl until smooth.</li>
+        <li> <strong>4.</strong>Pour the egg mixture over the pasta, stirring quickly, until creamy. </li>
+        <li> <strong>5.</strong> Stir in the halal meat, then top with the remaining cheese and more black pepper.</li>
+
+    </ol>
+
+</body>
+</html>
